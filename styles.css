@@ -33,6 +33,10 @@ body {
   margin-bottom: 16px;
 }
 
+#user-name {
+  height: 49px;
+}
+
 .profile-img {
   margin-right: 16px;
 }
